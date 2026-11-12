@@ -3,8 +3,10 @@
 Data Science grad (Wentworth '26) building data pipelines and backend systems.
 Consultant & Developer at Eustace Consulting (Salesforce).
 
-**Stack:** Python · SQL · PostgreSQL · AWS (Lambda, RDS, VPC) · Docker · FastAPI · Salesforce
-**Learning now:** Terraform and CI/CD
+**Stack:** 
+Python · SQL · PostgreSQL · AWS (Lambda, RDS, VPC) · Docker · FastAPI · Salesforce
+**Learning now:** 
+Terraform and CI/CD
 
 ### Featured projects
 - **[Health Crises Market Volatility](https://github.com/lkhavkin7/health-market-volatility)**: senior capstone. Four models on 14 years of health and market data; found that health signals detect regime shifts but don't predict volatility.
