@@ -5,6 +5,7 @@ Consultant & Developer at Eustace Consulting (Salesforce).
 
 **Stack:** 
 Python · SQL · PostgreSQL · AWS (Lambda, RDS, VPC) · Docker · FastAPI · Salesforce
+
 **Learning now:** 
 Terraform and CI/CD
 
